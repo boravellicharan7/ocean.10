@@ -1,0 +1,144 @@
+.a{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    padding: 10px;
+    margin-left: 250px;
+    text-align: center;
+}
+
+.aa{
+    background-color: lightseagreen;
+    grid-column: 1/13;
+    padding: 20px;
+}
+.b{
+    background-color: lightseagreen;
+    grid-column: 1/7;
+    padding: 20px;
+}
+.bb{
+    background-color: lightseagreen;
+    grid-column: 7/13;
+    padding: 20px;
+}
+.c{
+    background-color: lightseagreen;
+    grid-column: 1/5;
+    padding: 20px;
+}
+.cc{
+    background-color: lightseagreen;
+    grid-column: 5/9;
+    padding: 20px;
+}
+.d{
+    background-color: lightseagreen;
+    grid-column: 9/13;
+    padding: 20px;
+}
+.dd{
+    background-color: lightseagreen;
+    grid-column: 1/4;
+    padding: 20px;
+}
+.e{
+    background-color: lightseagreen;
+    grid-column: 4/7;
+    padding: 20px;
+}
+.ee{
+    background-color: lightseagreen;
+    grid-column: 7/10;
+    padding: 20px;
+}
+.f{
+    background-color: lightseagreen;
+    grid-column: 10/13;
+    padding: 20px;
+}
+.ff{
+    background-color: lightseagreen;
+    grid-column: 1/3;
+    padding: 20px;
+}
+.g{
+    background-color: lightseagreen;
+    grid-column: 3/5;
+    padding: 20px;
+}
+.gg{
+    background-color: lightseagreen;
+    grid-column: 5/7;
+    padding: 20px;
+}
+.h{
+    background-color: lightseagreen;
+    grid-column: 7/9;
+    padding: 20px;
+}
+.hh{
+    background-color: lightseagreen;
+    grid-column: 9/11;
+    padding: 20px;
+}
+.i{
+    background-color: lightseagreen;
+    grid-column: 11/13;
+    padding: 20px;
+}
+.ii{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.j{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.jj{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.k{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.kk{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.l{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.ll{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.m{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.mm{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.n{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.nn{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.o{
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.oo{
+    background-color: lightseagreen;
+    padding: 20px;
+}
